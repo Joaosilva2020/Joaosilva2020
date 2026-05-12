@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaosilva2020)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joaosilva2020.Joaosilva2020)
+![visitors](https://komarev.com/ghpvc/?username=Joaosilva2020&color=blue&style=flat-square&label=visitors)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🎓 Sobre mim
 
-Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)** . Pronome: **Ele/dele**.
+Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**. Pronome: **Ele/dele**.
 
 ---
 
@@ -22,11 +22,15 @@ Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e D
 
 <div align="center">
 
-![João Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaosilva2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva2020&layout=compact&langs_count=6&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva2020&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joaosilva2020&theme=tokyonight)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaosilva2020&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -50,7 +54,6 @@ Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e D
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -63,9 +66,7 @@ Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e D
 
 <div align="center">
 
-### 👁️ Me observando codar...
-
-![eye](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudando+ADS+%F0%9F%93%9A;Desenvolvendo+projetos+%F0%9F%92%BB;Sempre+aprendendo+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudando+ADS+%F0%9F%93%9A;Desenvolvendo+projetos+%F0%9F%92%BB;Sempre+aprendendo+%F0%9F%9A%80)
 
 *"Todo expert já foi um iniciante."*
 
