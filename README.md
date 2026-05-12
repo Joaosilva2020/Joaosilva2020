@@ -14,7 +14,7 @@
 
 ## 🎓 Sobre mim
 
-Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)** e apaixonado por desenvolvimento de software. Pronome: **Ele/dele**.
+Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)** . Pronome: **Ele/dele**.
 
 ---
 
