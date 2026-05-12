@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Gabriel!
 
-# 🎓 Formação e Objetivos
+# 🎓 Formação 
 * **Nome Completo:** João Gabriel da Silva Mesquita
 * **Estudando Atualmente:** Análise e Desenvolvimento de Sistemas (3 semestre)
 * **Pronome:** Ele/dele
