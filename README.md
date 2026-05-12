@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Gabriel!
+# 👋 Olá, me chamo João Gabriel!
 
 # 🎓 Formação 
 * **Nome Completo:** João Gabriel da Silva Mesquita
