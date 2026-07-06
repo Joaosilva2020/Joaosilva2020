@@ -60,7 +60,7 @@ Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e D
 ## 📫 Contato
 
 - 📧 **Gmail:** [joao17silva2004@gmail.com](mailto:joao17silva2004@gmail.com)
-- 💼 **LinkedIn:** [Clique aqui](https://linkedin.com/in/SEU-LINKEDIN)
+- 💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/jo%C3%A3o-gabriel-da-silva-mesquita-516761210/)
 
 ---
 
