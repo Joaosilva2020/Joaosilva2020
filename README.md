@@ -4,7 +4,7 @@
 
 ### `FULL STACK DEVELOPER • ADS STUDENT • DIGITAL BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+PROFILE;BUILDING+THE+FUTURE+WITH+CODE;JAVASCRIPT+%7C+REACT+%7C+NODE.JS;FROM+IDEA+TO+REAL+PROJECTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+PROFILE;BUILDING+THE+FUTURE+WITH+CODE;HTML+%7C=JAVASCRIPT+%7C+TypeScript+%7c==REACT+%7C+=NODE.JS;FROM+IDEA+TO+REAL+PROJECTS" />
 
 <br>
 
