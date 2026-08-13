@@ -1,73 +1,263 @@
 <div align="center">
 
-# 👋 Olá, me chamo João Gabriel!
+# ⚡ JOÃO GABRIEL
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao17silva2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaosilva2020)
+### `FULL STACK DEVELOPER • ADS STUDENT • DIGITAL BUILDER`
 
-![visitors](https://komarev.com/ghpvc/?username=Joaosilva2020&color=blue&style=flat-square&label=visitors)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+PROFILE;BUILDING+THE+FUTURE+WITH+CODE;JAVASCRIPT+%7C+REACT+%7C+NODE.JS;FROM+IDEA+TO+REAL+PROJECTS" />
 
-</div>
+<br>
 
----
+<a href="https://github.com/Joaosilva2020">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
 
-## 🎓 Sobre mim
+<a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-da-silva-mesquita-516761210/">
+<img src="https://img.shields.io/badge/LINKEDIN-050A14?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
 
-Meu nome é **João Gabriel da Silva Mesquita**. Sou estudante de **Análise e Desenvolvimento de Sistemas **. .
+<a href="mailto:joao17silva2004@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-050A14?style=for-the-badge&logo=gmail&logoColor=FF006E"/>
+</a>
 
----
+<a href="https://main.dkz5p1rp7nnuo.amplifyapp.com/">
+<img src="https://img.shields.io/badge/PORTFOLIO-050A14?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+</a>
 
-## 📊 Estatísticas do GitHub
+<br><br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva2020&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaosilva2020&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Joaosilva2020&color=00F7FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🧬 SYSTEM PROFILE
 
-**Front-end**
+```txt
+╔══════════════════════════════════════════════╗
+║             DEVELOPER PROFILE                ║
+╠══════════════════════════════════════════════╣
+║ NAME       :: João Gabriel da Silva Mesquita ║
+║ ROLE       :: Developer / ADS Student        ║
+║ STATUS     :: ONLINE                         ║
+║ LOCATION   :: Brazil 🇧🇷                      ║
+║ FOCUS      :: Web Development                ║
+║ MISSION    :: BUILD • LEARN • EVOLVE         ║
+╚══════════════════════════════════════════════╝
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> 👋 Olá! Sou **João Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor focado em transformar ideias em aplicações reais.
 
-**Back-end**
+Atualmente estou evoluindo principalmente em **JavaScript, React, Node.js, Python, bancos de dados e desenvolvimento web**.
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+Meu objetivo é construir projetos cada vez mais completos, entender como os sistemas funcionam por trás das interfaces e evoluir constantemente como desenvolvedor.
 
 ---
 
-## 📫 Contato
+# ⚡ CURRENT MISSION
 
-- 📧 **Gmail:** [joao17silva2004@gmail.com](mailto:joao17silva2004@gmail.com)
-- 💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/jo%C3%A3o-gabriel-da-silva-mesquita-516761210/)
+```javascript
+const developer = {
+    name: "João Gabriel",
+    role: "Software Developer",
+    education: "Análise e Desenvolvimento de Sistemas",
+
+    focus: [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "Databases",
+        "Cloud"
+    ],
+
+    objective:
+        "Transformar conhecimento em projetos reais."
+};
+```
+
+---
+
+# 🧠 TECH STACK
+
+### `01 // FRONT-END`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+</p>
+
+`HTML5` • `CSS3` • `JavaScript` • `React` • `Tailwind CSS`
+
+---
+
+### `02 // BACK-END`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+</p>
+
+`Node.js` • `Express` • `Python`
+
+---
+
+### `03 // DATABASE`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</p>
+
+`PostgreSQL` • `MySQL`
+
+---
+
+### `04 // DEV TOOLS`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</p>
+
+`Git` • `GitHub` • `VS Code` • `Linux`
+
+---
+
+# 🚀 PROJECT LAB
+
+```text
+┌───────────────────────────────────────────────┐
+│                PROJECT LAB                    │
+├───────────────────────────────────────────────┤
+│                                               │
+│  ◉ WEB APPLICATIONS                           │
+│  ◉ JAVASCRIPT PROJECTS                        │
+│  ◉ REACT INTERFACES                           │
+│  ◉ NODE.JS APIs                               │
+│  ◉ SYSTEM MONITORS                            │
+│  ◉ DATABASE PROJECTS                          │
+│                                               │
+│        BUILDING → TESTING → IMPROVING         │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+### 💻 Portfolio
+
+Meu portfólio reúne alguns dos projetos e tecnologias que venho estudando:
+
+**🌐 [Acessar meu portfólio](https://main.dkz5p1rp7nnuo.amplifyapp.com/)**
+
+---
+
+# 📊 GITHUB SYSTEM ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaosilva2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF006E&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilva2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaosilva2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF"/>
+
+</div>
+
+---
+
+# 📡 DEVELOPMENT STATUS
+
+```text
+SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[████████████████████░░] JAVASCRIPT
+[██████████████████░░░░] HTML / CSS
+[███████████████░░░░░░░] REACT
+[██████████████░░░░░░░░] NODE.JS
+[████████████░░░░░░░░░░] PYTHON
+[████████████░░░░░░░░░░] DATABASES
+[██████████░░░░░░░░░░░░] CLOUD
+
+STATUS: LEARNING...
+NEXT LEVEL: SENIOR
+```
+
+---
+
+# 🎯 2072 ROADMAP
+
+```text
+2026
+ │
+ ├── JavaScript
+ ├── React
+ ├── Node.js
+ ├── Databases
+ ├── Git / GitHub
+ │
+ ▼
+2027
+ │
+ ├── TypeScript
+ ├── Advanced React
+ ├── APIs
+ ├── Cloud
+ ├── Architecture
+ │
+ ▼
+2072
+ │
+ └── BUILD THE FUTURE 🚀
+```
+
+---
+
+# 📫 CONNECT
+
+<div align="center">
+
+### `ESTABLISH CONNECTION`
+
+📧 **Email**
+
+[joao17silva2004@gmail.com](mailto:joao17silva2004@gmail.com)
+
+💼 **LinkedIn**
+
+[João Gabriel da Silva Mesquita](https://www.linkedin.com/in/jo%C3%A3o-gabriel-da-silva-mesquita-516761210/)
+
+💻 **GitHub**
+
+[Joaosilva2020](https://github.com/Joaosilva2020)
+
+🌐 **Portfolio**
+
+[main.dkz5p1rp7nnuo.amplifyapp.com](https://main.dkz5p1rp7nnuo.amplifyapp.com/)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Estudando+ADS+%F0%9F%93%9A;Desenvolvendo+projetos+%F0%9F%92%BB;Sempre+aprendendo+%F0%9F%9A%80)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+EVOLVING.;THE+FUTURE+IS+CODED." />
 
-*"Todo expert já foi um iniciante."*
+<br>
+
+### `> SYSTEM MESSAGE: NEVER STOP EVOLVING_`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF006E&height=120&section=footer"/>
 
 </div>
