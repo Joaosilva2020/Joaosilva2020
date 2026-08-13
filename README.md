@@ -2,9 +2,9 @@
 
 # ⚡ JOÃO GABRIEL
 
-### `DESENVOLVEDOR EM EVOLUÇÃO • ESTUDANTE DE ADS • CONSTRUTOR DIGITAL`
+### `FULL STACK DEVELOPER • ADS STUDENT • DIGITAL BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=MINHA+TRAJET%C3%93RIA+COME%C3%87OU+COM+HTML...;HTML+%E2%86%92+CSS;HTML+%2B+CSS+%E2%86%92+JAVASCRIPT;JAVASCRIPT+%E2%86%92+GIT+%26+GITHUB;JAVASCRIPT+%E2%86%92+REACT;REACT+%E2%86%92+NODE.JS;NODE.JS+%E2%86%92+BANCOS+DE+DADOS;PYTHON+%E2%86%92+APIs+%E2%86%92+CLOUD;APRENDER+%E2%86%92+PRATICAR+%E2%86%92+CRIAR;DE+IDEIAS+PARA+PROJETOS+REAIS;MINHA+EVOLU%C3%87%C3%83O+CONTINUA..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+DIGITAL+PROFILE;BUILDING+THE+FUTURE+WITH+CODE;JAVASCRIPT+%7C+REACT+%7C+NODE.JS;FROM+IDEA+TO+REAL+PROJECTS" />
 
 <br>
 
@@ -21,146 +21,73 @@
 </a>
 
 <a href="https://main.dkz5p1rp7nnuo.amplifyapp.com/">
-<img src="https://img.shields.io/badge/PORTF%C3%93LIO-050A14?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-050A14?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Joaosilva2020&color=00F7FF&style=for-the-badge&label=VISITAS+AO+PERFIL"/>
+<img src="https://komarev.com/ghpvc/?username=Joaosilva2020&color=00F7FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-# 🧬 PERFIL DO DESENVOLVEDOR
+# 🧬 SYSTEM PROFILE
 
-```text
+```txt
 ╔══════════════════════════════════════════════╗
-║          PERFIL DO DESENVOLVEDOR             ║
+║             DEVELOPER PROFILE                ║
 ╠══════════════════════════════════════════════╣
-║ NOME       :: João Gabriel da Silva Mesquita ║
-║ FUNÇÃO     :: Desenvolvedor em evolução      ║
-║ FORMAÇÃO   :: Análise e Desenvolvimento      ║
-║              de Sistemas                     ║
+║ NAME       :: João Gabriel da Silva Mesquita ║
+║ ROLE       :: Developer / ADS Student        ║
 ║ STATUS     :: ONLINE                         ║
-║ LOCAL      :: Brasil 🇧🇷                      ║
-║ FOCO       :: Desenvolvimento Web             ║
-║ MISSÃO     :: APRENDER • CRIAR • EVOLUIR     ║
+║ LOCATION   :: Brazil 🇧🇷                      ║
+║ FOCUS      :: Web Development                ║
+║ MISSION    :: BUILD • LEARN • EVOLVE         ║
 ╚══════════════════════════════════════════════╝
 ```
 
-> 👋 Olá! Sou **João Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em constante evolução.
->
-> Minha trajetória na programação começou pelos fundamentos da **Web**, passando por **HTML, CSS e JavaScript** e avançando gradualmente para tecnologias como **React, Node.js, bancos de dados, Python e Cloud**.
->
-> Meu objetivo é transformar cada tecnologia aprendida em **projetos reais**, entender cada vez mais profundamente como os sistemas funcionam e continuar evoluindo como desenvolvedor.
+> 👋 Olá! Sou **João Gabriel**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor focado em transformar ideias em aplicações reais.
+
+Atualmente estou evoluindo principalmente em **JavaScript, React, Node.js, Python, bancos de dados e desenvolvimento web**.
+
+Meu objetivo é construir projetos cada vez mais completos, entender como os sistemas funcionam por trás das interfaces e evoluir constantemente como desenvolvedor.
 
 ---
 
-# 🛰️ MINHA TRAJETÓRIA
-
-```text
-                    🚀 TRAJETÓRIA DE DESENVOLVIMENTO
-                              │
-                              ▼
-                         ┌──────────┐
-                         │  HTML5   │
-                         │ FUNDAÇÃO │
-                         └────┬─────┘
-                              │
-                              ▼
-                         ┌──────────┐
-                         │   CSS3   │
-                         │  VISUAL  │
-                         └────┬─────┘
-                              │
-                              ▼
-                      ┌────────────────┐
-                      │   JAVASCRIPT   │
-                      │    LÓGICA      │
-                      └───────┬────────┘
-                              │
-                              ▼
-                     ┌─────────────────┐
-                     │   GIT / GITHUB  │
-                     │   VERSIONAMENTO │
-                     └────────┬────────┘
-                              │
-                              ▼
-                         ┌──────────┐
-                         │  REACT   │
-                         │ INTERFACE │
-                         └────┬─────┘
-                              │
-                              ▼
-                        ┌───────────┐
-                        │ NODE.JS   │
-                        │ BACK-END  │
-                        └─────┬─────┘
-                              │
-                              ▼
-                     ┌─────────────────┐
-                     │ BANCOS DE DADOS │
-                     │  PostgreSQL     │
-                     │     MySQL       │
-                     └────────┬────────┘
-                              │
-                              ▼
-                         ┌──────────┐
-                         │ PYTHON   │
-                         │ AUTOMAÇÃO │
-                         └────┬─────┘
-                              │
-                              ▼
-                          ┌───────┐
-                          │ CLOUD │
-                          │  AWS  │
-                          └───┬───┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │  PROJETOS REAIS   │
-                    │                   │
-                    │ APRENDER → CRIAR  │
-                    │ TESTAR → EVOLUIR  │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                           🚀 2072
-```
-
----
-
-# ⚡ MISSÃO ATUAL
+# ⚡ CURRENT MISSION
 
 ```javascript
-const desenvolvedor = {
-    nome: "João Gabriel",
+const developer = {
+    name: "João Gabriel",
+    role: "Software Developer",
+    education: "Análise e Desenvolvimento de Sistemas",
 
-    formação: "Análise e Desenvolvimento de Sistemas",
-
-    trajetória: [
-        "HTML",
-        "CSS",
+    focus: [
         "JavaScript",
-        "Git e GitHub",
         "React",
         "Node.js",
-        "Bancos de Dados",
         "Python",
+        "Databases",
         "Cloud"
     ],
 
-    objetivo:
+    objective:
         "Transformar conhecimento em projetos reais."
 };
 ```
 
 ---
 
-# 🧠 TECNOLOGIAS
+# 🧠 TECH STACK
 
 ### `01 // FRONT-END`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+</p>
 
 `HTML5` • `CSS3` • `JavaScript` • `React` • `Tailwind CSS`
 
@@ -168,53 +95,68 @@ const desenvolvedor = {
 
 ### `02 // BACK-END`
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+</p>
+
 `Node.js` • `Express` • `Python`
 
 ---
 
-### `03 // BANCO DE DADOS`
+### `03 // DATABASE`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+</p>
 
 `PostgreSQL` • `MySQL`
 
 ---
 
-### `04 // FERRAMENTAS`
+### `04 // DEV TOOLS`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</p>
 
 `Git` • `GitHub` • `VS Code` • `Linux`
 
 ---
 
-# 🚀 LABORATÓRIO DE PROJETOS
+# 🚀 PROJECT LAB
 
 ```text
 ┌───────────────────────────────────────────────┐
-│             LABORATÓRIO DE PROJETOS          │
+│                PROJECT LAB                    │
 ├───────────────────────────────────────────────┤
 │                                               │
-│  ◉ APLICAÇÕES WEB                             │
-│  ◉ PROJETOS JAVASCRIPT                        │
-│  ◉ INTERFACES REACT                           │
-│  ◉ APIs NODE.JS                               │
-│  ◉ MONITORES DE SISTEMA                       │
-│  ◉ PROJETOS COM BANCO DE DADOS               │
+│  ◉ WEB APPLICATIONS                           │
+│  ◉ JAVASCRIPT PROJECTS                        │
+│  ◉ REACT INTERFACES                           │
+│  ◉ NODE.JS APIs                               │
+│  ◉ SYSTEM MONITORS                            │
+│  ◉ DATABASE PROJECTS                          │
 │                                               │
-│                                               │
-│       APRENDER → PRATICAR → CRIAR            │
-│                  ↓                            │
-│             TESTAR → EVOLUIR                 │
+│        BUILDING → TESTING → IMPROVING         │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
 
-### 💻 Portfólio
+### 💻 Portfolio
 
-Meu portfólio reúne meus projetos, experiências de desenvolvimento e tecnologias que venho estudando.
+Meu portfólio reúne alguns dos projetos e tecnologias que venho estudando:
 
 **🌐 [Acessar meu portfólio](https://main.dkz5p1rp7nnuo.amplifyapp.com/)**
 
 ---
 
-# 📊 ANÁLISE DO GITHUB
+# 📊 GITHUB SYSTEM ANALYTICS
 
 <div align="center">
 
@@ -234,73 +176,61 @@ Meu portfólio reúne meus projetos, experiências de desenvolvimento e tecnolog
 
 ---
 
-# 📡 STATUS DE DESENVOLVIMENTO
+# 📡 DEVELOPMENT STATUS
 
 ```text
-STATUS DO SISTEMA
+SYSTEM STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[████████████████████░░] HTML
-[███████████████████░░░] CSS
-[██████████████████░░░░] JAVASCRIPT
-[███████████████░░░░░░░] GIT / GITHUB
-[██████████████░░░░░░░░] REACT
-[████████████░░░░░░░░░░] NODE.JS
-[████████████░░░░░░░░░░] BANCO DE DADOS
-[██████████░░░░░░░░░░░░] PYTHON
+[████████████████████░░] JAVASCRIPT
+[██████████████████░░░░] HTML / CSS
+[███████████████░░░░░░░] REACT
+[██████████████░░░░░░░░] NODE.JS
+[████████████░░░░░░░░░░] PYTHON
+[████████████░░░░░░░░░░] DATABASES
 [██████████░░░░░░░░░░░░] CLOUD
 
-STATUS: EM EVOLUÇÃO...
-PRÓXIMA FASE: DESENVOLVIMENTO AVANÇADO
+STATUS: LEARNING...
+NEXT LEVEL: SENIOR
 ```
 
 ---
 
-# 🎯 TRAJETÓRIA 2072
+# 🎯 2072 ROADMAP
 
 ```text
 2026
  │
- ├── HTML
- ├── CSS
  ├── JavaScript
- ├── Git / GitHub
  ├── React
+ ├── Node.js
+ ├── Databases
+ ├── Git / GitHub
  │
  ▼
 2027
  │
  ├── TypeScript
- ├── Node.js
+ ├── Advanced React
  ├── APIs
- ├── Bancos de Dados
- ├── Python
- │
- ▼
-PRÓXIMAS FASES
- │
  ├── Cloud
- ├── Arquitetura de Software
- ├── Sistemas Distribuídos
- ├── DevOps
- └── Engenharia de Software
+ ├── Architecture
  │
  ▼
-                              🚀
-                         2072
-                  O FUTURO É CONSTRUÍDO
-                       PASSO A PASSO
+2072
+ │
+ └── BUILD THE FUTURE 🚀
 ```
 
 ---
 
-# 📫 CONECTE-SE COMIGO
+# 📫 CONNECT
 
 <div align="center">
 
-### `> ESTABELECER CONEXÃO_`
+### `ESTABLISH CONNECTION`
 
-📧 **E-mail**
+📧 **Email**
 
 [joao17silva2004@gmail.com](mailto:joao17silva2004@gmail.com)
 
@@ -312,7 +242,7 @@ PRÓXIMAS FASES
 
 [Joaosilva2020](https://github.com/Joaosilva2020)
 
-🌐 **Portfólio**
+🌐 **Portfolio**
 
 [main.dkz5p1rp7nnuo.amplifyapp.com](https://main.dkz5p1rp7nnuo.amplifyapp.com/)
 
@@ -322,11 +252,11 @@ PRÓXIMAS FASES
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&width=650&lines=CONTINUAR+APRENDENDO.;CONTINUAR+PRATICANDO.;CONTINUAR+CRIANDO.;CONTINUAR+EVOLUINDO.;CADA+LINHA+DE+C%C3%93DIGO+%C3%89+UM+NOVO+PASSO.;A+TRAJET%C3%93RIA+CONTINUA..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&width=600&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+EVOLVING.;THE+FUTURE+IS+CODED." />
 
 <br>
 
-### `> SISTEMA: PR%C3%93XIMO N%C3%8DVEL CARREGANDO..._`
+### `> SYSTEM MESSAGE: NEVER STOP EVOLVING_`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF006E&height=120&section=footer"/>
 
